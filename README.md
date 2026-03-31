@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**Rajivreddy26/Raji# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on:<br>Building and deploying Machine Learning models, focusing on scalable and production-ready solutions<br>🤝 I’m looking to collaborate on:<br>Machine Learning projects, MLOps pipelines, and real-world AI applications<br>🆘 I’m looking for help with:<br>Advanced DevOps practices, CI/CD pipelines, Kubernetes, and cloud-native deployments<br>🌱 I’m currently learning:<br>DevOps tools like Docker, Kubernetes, Terraform, and improving my MLOps skills<br>💬 Ask me about:<br>Machine Learning, model deployment, APIs, Airflow workflows, and SageMaker<br>⚡ Fun fact:<br>I enjoy turning complex ML problems into simple, automated pipelines 🚀
 
 
@@ -21,16 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Rajivreddy26&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->vreddy26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
